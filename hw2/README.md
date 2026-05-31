@@ -1,3 +1,6 @@
+# 前言
+### 內容都是AI寫的 我在[Gemini](https://gemini.google.com/share/2898b6890057)先確認要做的雛型 之後在codespace內讓AI寫的
+
 # NL 編程語言設計與解釋器
 
 ## 項目概述
