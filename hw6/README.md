@@ -1,3 +1,7 @@
+# 前言
+
+### 內容全使用opencode完成
+
 # 行程（Process）與檔案相關系統呼叫 觀念整理
 
 ## 三個標準檔案描述子 (File Descriptors)
